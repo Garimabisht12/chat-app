@@ -176,7 +176,7 @@ If you find a bug or want to suggest a feature:
 - Mention steps to reproduce it
 - Add screenshots if relevant
 
-# 6. 🔥 Conclusion and License
+# 6. 🔥 Conclusion
 
 Chat App is a practical real-time messaging application that demonstrates how to build a modern, responsive, full-stack chat solution with secure authentication, live communication, and scalable backend architecture.
 
